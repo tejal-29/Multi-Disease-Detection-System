@@ -1,7 +1,2 @@
-# multiple-disease-prediction-streamlit-app
-This repository contains the codebase for "Multiple Disease Prediction Streamlit App". The training notebooks &amp; the datasets are also provided in the respective folders. 
-
-app.py is the streamlit app code.
-run the command "**pip install -r requirements.txt**" to install the required dependencies for the streamlit app.
-
-You may need to install additional libraries for running the jupyter notebooks.
+# Multi Disease Detection System
+## Developing a Multi-Disease Detection System, aimed at enhancing medical diagnostics for patients, labora- tories, and doctors. The system, built with Streamlit for a web interface, predicts the likelihood of diseases based on parameters. Currently detecting Heart Disease, Diabetes, Thyroid Disorder, and Stroke,it provides critical insights for faster diagnoses. We are now upgrading the system to a mobile app using React Native, which will offer a common UI for seamless input of health data, significantly improving accessibility and diagnostic accuracy for users.
